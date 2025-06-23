@@ -3,13 +3,19 @@ En el mismo se evaluó principalmente el manejo de estructuras de datos, a parti
 Se utilizó documentos de texto para almacenar las preguntas, las respuestas y la lista de jugadores con sus máximos puntos acumulados.
 
 En el inicio vemos 4 opciones:
+
 1 --> Jugar
+
 2 --> Lista de jugadores
+
 3 --> ¿Como jugar?
+
 4 --> Cerrar
 
 "Jugar" nos lleva a seleccionar la cantidad de jugadores para luego comenzar a jugar.
+
 "Lista de jugadores" nos muestra la lista de los jugadores almacenados con su puntaje más alto alcanzado.
+
 "¿Como jugar?" nos mostrará el siguiente texto, todo lo que debes saber a la hora de jugar:
 
 En este emocionante juego de preguntas y respuestas, pondrás a prueba tus
