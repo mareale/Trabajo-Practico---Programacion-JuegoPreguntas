@@ -18,6 +18,8 @@ En el inicio vemos 4 opciones:
 
 "¿Como jugar?" nos mostrará el siguiente texto, todo lo que debes saber a la hora de jugar:
 
+///
+
 En este emocionante juego de preguntas y respuestas, pondrás a prueba tus
 conocimientos y competirás contra tus amigos. El juego admite de 2 a 4 jugadores.
 El objetivo es simple: responder preguntas correctamente y mantener tu racha.
@@ -36,5 +38,7 @@ La competencia sigue su curso así con cada jugador, tratando de acumular la
 mayor cantidad de respuestas correctas. Eso es todo lo que debes saber...
 
 Que comience el juego y que el más astuto se corone como el campeón!
+
+///
 
 "Cerrar" finaliza la ejecucion.
