@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1697502082 source:c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"lista.h"
+	"jugador.h"
+	"puntos.h"
+	"pregunta.h"
+	"respuesta.h"
+
+1697753510 source:c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jugador.h"
+	"puntos.h"
+	"lista.h"
+	"pregunta.h"
+	"juego.h"
+
+1697482377 c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\jugador.h
+	"lista.h"
+	"puntos.h"
+
+1697726855 c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\puntos.h
+
+1697772586 source:c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"lista.h"
+	"jugador.h"
+	"puntos.h"
+	"pregunta.h"
+	"respuesta.h"
+	<unistd.h>
+
+1697731055 c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\juego.h
+	"lista.h"
+
+1697751176 source:c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	"puntos.h"
+	"jugador.h"
+
+1697261097 source:c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"respuesta.h"
+	"lista.h"
+
+1697123547 c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\respuesta.h
+	"lista.h"
+
+1697581897 source:c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pregunta.h"
+	"lista.h"
+
+1697319552 c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\pregunta.h
+	"respuesta.h"
+	"lista.h"
+
+1697261098 source:c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1696633084 c:\users\martin\onedrive\documentos\codebockssi\trabajo final programacion\juegopreguntas\lista.h
+
+1697772586 source:c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"lista.h"
+	"jugador.h"
+	"puntos.h"
+	"pregunta.h"
+	"respuesta.h"
+	<unistd.h>
+
+1697731055 c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\juego.h
+	"lista.h"
+
+1696633084 c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\lista.h
+
+1697482377 c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\jugador.h
+	"lista.h"
+	"puntos.h"
+
+1697726855 c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\puntos.h
+
+1697319552 c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\pregunta.h
+	"respuesta.h"
+	"lista.h"
+
+1697123547 c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\respuesta.h
+	"lista.h"
+
+1697753510 source:c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jugador.h"
+	"puntos.h"
+	"lista.h"
+	"pregunta.h"
+	"juego.h"
+
+1697261098 source:c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1715179779 source:c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"lista.h"
+	"jugador.h"
+	"puntos.h"
+	"pregunta.h"
+	"respuesta.h"
+
+1697581897 source:c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pregunta.h"
+	"lista.h"
+
+1697751176 source:c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	"puntos.h"
+	"jugador.h"
+
+1697261097 source:c:\users\usuario\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"respuesta.h"
+	"lista.h"
+
+1697772586 source:c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"lista.h"
+	"jugador.h"
+	"puntos.h"
+	"pregunta.h"
+	"respuesta.h"
+	<unistd.h>
+
+1697731055 c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\juego.h
+	"lista.h"
+
+1696633084 c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\lista.h
+
+1697482377 c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\jugador.h
+	"lista.h"
+	"puntos.h"
+
+1697726855 c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\puntos.h
+
+1697319552 c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\pregunta.h
+	"respuesta.h"
+	"lista.h"
+
+1697123547 c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\respuesta.h
+	"lista.h"
+
+1697753510 source:c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jugador.h"
+	"puntos.h"
+	"lista.h"
+	"pregunta.h"
+	"juego.h"
+
+1697261098 source:c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1715179779 source:c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+	"lista.h"
+	"jugador.h"
+	"puntos.h"
+	"pregunta.h"
+	"respuesta.h"
+
+1697581897 source:c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pregunta.h"
+	"lista.h"
+
+1697751176 source:c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	"puntos.h"
+	"jugador.h"
+
+1697261097 source:c:\users\echav\onedrive\documentos\unla\codeblocks\programacion\juegopreguntas\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"respuesta.h"
+	"lista.h"
+

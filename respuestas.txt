@@ -1,0 +1,172 @@
+1;Nilo;1;1
+1;Amazonas;0;2
+1;Yangtse;0;3
+1;Misisipi;0;4
+2;Leonardo Da Vinci;1;1
+2;Miguel Angel Buonarroti;0;2
+2;Donatello;0;3
+2;Galileo Galilei;0;4
+3;Borges;1;1
+3;Cortazar;0;2
+3;Vargas Llosa;0;3
+3;Garcia Marquez;0;4
+4;Amarillo;1;1
+4;Negro;0;2
+4;Rojo;0;3
+4;Azul;0;4
+5;Ottawa;1;1
+5;Toronto;0;2
+5;Vancouver;0;3
+5;Montreal;0;4
+6;Seis;1;1
+6;Ocho;0;2
+6;Cinco;0;3
+6;Siete;0;4
+7;Loki;1;1
+7;Odin;0;2
+7;Zeus;0;3
+7;Thanos;0;4
+8;Brasil;1;1
+8;Alemania;0;2
+8;Espana;0;3
+8;Italia;0;4
+9;Brasilia;1;1
+9;Rio de Janeiro;0;2
+9;Porto Alegre;0;3
+9;Sao Paulo;0;4
+10;Leonardo DaVinci;1;1
+10;Salvador Dali;0;2
+10;Pablo Picasso;0;3
+10;Van Gogh;0;4
+11;Van Gogh;1;1
+11;Leonardo DaVinci;0;2
+11;Sandro Botticelli;0;3
+11;Miguel Angel;0;4
+12;1991;1;1
+12;1992;0;2
+12;1994;0;3
+12;1996;0;4
+13;Thomas Edison;1;1
+13;Gregor Mendel;0;2
+13;Isaac Newton;0;3
+13;Nico Perez;0;4
+14;Japon;1;1
+14;China;0;2
+14;Estados Unidos;0;3
+14;Vietnam;0;4
+15;Pacifico;1;1
+15;Atlantico;0;2
+15;Indico;0;3
+15;Artico;0;4
+16;NuevaYork;1;1
+16;Paris;0;2
+16;Barcelona;0;3
+16;Miami;0;4
+17;Washington;1;1
+17;Londres;0;2
+17;Argentina;0;3
+17;Madrid;0;4
+18;Napoles;1;1
+18;Roma;0;2
+18;Milan;0;3
+18;Calabria;0;4
+19;Chile;1;1
+19;Argelia;0;2
+19;Egipto;0;3
+19;Peru;0;4
+20;206;1;1
+20;208;0;2
+20;210;0;3
+20;203;0;4
+21;118;1;1
+21;113;0;2
+21;115;0;3
+21;123;0;4
+22;Mercurio;1;1
+22;Venus;0;2
+22;Saturno;0;3
+22;Marte;0;4
+23;17;1;1
+23;18;0;2
+23;20;0;3
+23;15;0;4
+24;Guepardo;1;1
+24;Puma;0;2
+24;Hiena;0;3
+24;Caballo;0;4
+25;Cinco;1;1
+25;Cuatro;0;2
+25;Ocho;0;3
+25;Nueve;0;4
+26;Natacion;1;1
+26;Futbol;0;2
+26;Basquet;0;3
+26;Tenis;0;4
+27;La Dificil;1;1
+27;Criminal;0;2
+27;Top5;0;3
+27;Loca;0;4
+28;Toyota;1;1
+28;BMW;0;2
+28;Peugeot;0;3
+28;Ford;0;4
+29;1945;1;1
+29;1918;0;2
+29;1930;0;3
+29;1939;0;4
+30;Windsor;1;1
+30;Sinclair;0;2
+30;Smith;0;3
+30;Winter;0;4
+31;4 de julio;1;1
+31;3 de agosto;0;2
+31;9 de julio;0;3
+31;15 de mayo;0;4
+32;Entre 4 y 6;1;1
+32;Entre 1 y 3;0;2
+32;Entre 7 y 9;0;3
+32;Mas de 10;0;4
+33;Argentina;1;1
+33;Italia;0;2
+33;Espanola;0;3
+33;Mexicana;0;4
+34;Paleolitico;1;1
+34;Neolitico;0;2
+34;Calcolitico;0;3
+34;Mesolitico;0;4
+35;Aconcagua;1;1
+35;Monte Everest;0;2
+35;Pico Neblina;0;3
+35;Pico Bolivar;0;4
+36;Emiliano Martinez;1;1
+36;Lautaro Martinez;0;2
+36;Di Maria;0;3
+36;Paredes;0;4
+37;Capitan America;1;1
+37;Iron Man;0;2
+37;Hulk;0;3
+37;Spiderman;0;4
+38;Azul;1;1
+38;Verde;0;2
+38;Rojo;0;3
+38;Violeta;0;4
+39;Tiro al Blanco;1;1
+39;Slinky;0;2
+39;Hamm;0;3
+39;Lenny;0;4
+40;Celeste;1;1
+40;Verde;0;2
+40;Rojo;0;3
+40;Amarillo;0;4
+41;Scar;1;1
+41;Timon;0;2
+41;Pumba;0;3
+41;Banzai;0;4
+42;Blanca;1;1
+42;Roja;0;2
+42;Azul;0;3
+42;Negra;0;4
+43;In-N-Out;1;1
+43;Wendys;0;2
+43;McDonalds;0;3
+43;Burger King;0;4

@@ -1,0 +1,43 @@
+1;Cual es el rio mas largo del mundo?
+2;Quien retrato La Mona Lisa?
+3;Quien escribio El Libro de Arena?
+4;Que color tiene en el medio la bandera de Belgica?
+5;Cual es la capital de Canada?
+6;Cuantos lados tiene un Hexagono?
+7;Quien es el hermano de Thor: El dios del Trueno?
+8;Quien gano el mundial de 2002?
+9;Cual es la capital de Brasil?
+10;Quien pinto La Ultima Cena?
+11;Quien pinto La noche estrellada?
+12;En que anio murio Freddie Mercury?
+13;Quien invento la lamparita?
+14;En que pais se uso la primera bomba atomica?
+15;Cual es el oceano mas grande del mundo?
+16;Cual es la ciudad de los rascacielos?
+17;Donde esta la Casa Blanca?
+18;Donde se invento la pizza?
+19;En que pais se encuentra el desierto de Atacama?
+20;Cuantos huesos hay en el cuerpo humano de un adulto?
+21;Cuantos elementos hay en la Tabla Periodica?
+22;Que planeta es el que se encuentra mas cercano al Sol?
+23;Cuantos lados tiene un heptadecagono?
+24;Cual es el animal mas rapido del mundo?
+25;Cuantos anillos hay en la bandera olimpica?
+26;Cual es el deporte mas practicado del mundo?
+27;Cual de estas canciones es de Bad Bunny?
+28;Cual de estas marcas pertenece a industria japonesa?
+29;Cuando acabo la Segunda Guerra Mundial?
+30;Cual es el apellido de la Reina Isabel de Inglaterra?
+31;Que dia es la fiesta nacional de EEUU?
+32;Cuantos litros de sangre tiene una persona adulta?
+33;Cual es la nacionalidad de Jorge Mario Bergoglio?
+34;En que periodo de la prehistoria se descubrio el fuego?
+35;Cual es la montaña mas alta del continente americano?
+36;Que lleva el numero 23 en la seleccion Argentina?
+37;En Marvel...Quien es el primer vengador?
+38;En Star Wars...De que color es el sable de Anakin?
+39;Como se llama el caballo de Toy Story?
+40;Que color caracteriza a Dinoco en la saga de Cars?
+41;Como se llama el tio de Simba, El Rey Leon?
+42;De que color es la estrella de la bandera de Chile?
+43;Cual de cadena de hamburguesas se fundo primero?
